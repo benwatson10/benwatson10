@@ -1,6 +1,6 @@
 <h1>👋  Hi there I'm Ben</h1>
 
-<p>I'm a web developer based in the United Kingdom. I love building interactive websites and currently in the midst of an intense Web Development Bootcamp funded by The Department Of Education, and provided by Bath Spa University and the Institute of Code. 
+<p>I'm a web developer based in the United Kingdom. I love building interactive websites and have just finished an intense Web Development Bootcamp funded by The Department Of Education, and provided by Bath Spa University and the Institute of Code. 
 </p>
 <p>
 Currently working in JavaScript and learning the ropes of React.
