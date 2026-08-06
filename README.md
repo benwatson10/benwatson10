@@ -21,4 +21,4 @@
 
   Most of what I build is in private repos. Happy to talk about any of it.
 
-  [LinkedIn](https://linkedin.com/in/ben-watson) · ben.watson10@googlemail.com
+  [LinkedIn](https://linkedin.com/in/ben-watson) 
